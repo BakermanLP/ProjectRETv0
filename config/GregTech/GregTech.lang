@@ -178,7 +178,11 @@ languagefile {
     S:item.GT_Gasses.38.name=Gaseous Nitrogen Dioxide
     S:item.GT_Gasses.6.name=Gaseous Helium-3
     S:item.GT_Gasses.9.name=Gaseous Methane
+    S:item.GT_Hammer_Bronze.name=Bronze Hammer
+    S:item.GT_Hammer_Iron.name=Iron Hammer
     S:item.GT_Hammer_Rubber.name=Rubber Hammer
+    S:item.GT_Hammer_Steel.name=Steel Hammer
+    S:item.GT_Hammer_Tungstensteel.name=Tungstensteel Hammer
     S:item.GT_Liquids.10.name=Liquid Berylium
     S:item.GT_Liquids.11.name=Liquid Calcium
     S:item.GT_Liquids.12.name=Liquid Sodium
@@ -420,6 +424,7 @@ languagefile {
     S:tile.BlockMetaID_Machine.GT_DieselGenerator.name=Diesel Generator
     S:tile.BlockMetaID_Machine.GT_DistillationTower.name=Distillation Tower
     S:tile.BlockMetaID_Machine.GT_DragonEggEnergySiphon.name=Dragon Egg Energy Siphon
+    S:tile.BlockMetaID_Machine.GT_Dynamo_Hatch.name=Dynamo Hatch
     S:tile.BlockMetaID_Machine.GT_E_Buffer_Large.name=Large Electric Buffer
     S:tile.BlockMetaID_Machine.GT_E_Buffer_Small.name=Small Electric Buffer
     S:tile.BlockMetaID_Machine.GT_E_Craftingtable.name=Electric Craftingtable
@@ -428,6 +433,7 @@ languagefile {
     S:tile.BlockMetaID_Machine.GT_E_Sorter.name=Electric Sorter
     S:tile.BlockMetaID_Machine.GT_E_T_Sorter.name=Electric Type Sorter
     S:tile.BlockMetaID_Machine.GT_Electrolyzer.name=Industrial Electrolyzer
+    S:tile.BlockMetaID_Machine.GT_Energy_Hatch.name=Energy Hatch
     S:tile.BlockMetaID_Machine.GT_Extractor.name=Automatic Extractor
     S:tile.BlockMetaID_Machine.GT_Fusion_Computer.name=Fusion Control Computer
     S:tile.BlockMetaID_Machine.GT_Fusion_Energy.name=Fusion Energy Injector
@@ -438,6 +444,7 @@ languagefile {
     S:tile.BlockMetaID_Machine.GT_Harvestor.name=Crop Harvestor
     S:tile.BlockMetaID_Machine.GT_IDSU.name=IDSU
     S:tile.BlockMetaID_Machine.GT_ImplosionCompressor.name=Implosion Compressor
+    S:tile.BlockMetaID_Machine.GT_Input_Hatch.name=Input Hatch
     S:tile.BlockMetaID_Machine.GT_InventoryManager.name=Inventory Manager
     S:tile.BlockMetaID_Machine.GT_LargeCharger.name=Large Charger
     S:tile.BlockMetaID_Machine.GT_Lightningrod.name=Lightning Rod
@@ -445,7 +452,10 @@ languagefile {
     S:tile.BlockMetaID_Machine.GT_MachineBox.name=Machine Box
     S:tile.BlockMetaID_Machine.GT_MagicAbsorber.name=Magic Energy Absorber
     S:tile.BlockMetaID_Machine.GT_MagicConverter.name=Magic Energy Converter
+    S:tile.BlockMetaID_Machine.GT_Maintenance_Hatch.name=Maintenance Hatch
     S:tile.BlockMetaID_Machine.GT_Microwave.name=Microwave Oven
+    S:tile.BlockMetaID_Machine.GT_Multi_GasTurbine.name=Large Gas Turbine
+    S:tile.BlockMetaID_Machine.GT_Output_Hatch.name=Output Hatch
     S:tile.BlockMetaID_Machine.GT_PlasmaGenerator.name=Plasma Generator
     S:tile.BlockMetaID_Machine.GT_Printer.name=Printing Factory
     S:tile.BlockMetaID_Machine.GT_Pulverizer.name=Universal Macerator

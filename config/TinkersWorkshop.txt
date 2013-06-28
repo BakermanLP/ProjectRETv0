@@ -5,16 +5,18 @@
 ####################
 
 block {
-    I:Barricade=1469
+    I:Aggregator=1168
+    I:Barricade=1169
     I:"Golem Core"=1151
     I:"Golem Head"=1152
     I:"Held Item Block"=1153
-    I:Landmine=1470
+    I:Landmine=1170
     I:"Lava Tank"=1154
     I:"Liquid Metal Flowing"=1155
     I:"Liquid Metal Still"=1156
     I:"Metal Storage"=1157
-    I:"Multi Brick"=1481
+    I:"Multi Brick"=1171
+    I:"Multi Brick Fancy"=1172
     I:"Ore Berry One"=1164
     I:"Ore Berry Two"=1165
     I:"Ores Gravel"=1166
@@ -24,7 +26,7 @@ block {
     I:"Special Soil"=1161
     I:"Speed Block"=1167
     I:"Stone Torch"=1162
-    I:"Tool Forge"=1468
+    I:"Tool Forge"=1173
     I:"Wood Tool Station"=1163
 }
 
@@ -34,6 +36,8 @@ block {
 ####################
 
 "difficulty changes" {
+    B:"Craft metals with Wood Patterns"=false
+    B:"Craft vanilla metal blocks"=true
     B:"Enable mod bone tools"=true
     B:"Enable mod cactus tools"=true
     B:"Enable mod stone tools"=true
@@ -51,13 +55,13 @@ block {
 ####################
 
 equipables {
-    I:Gloves=31738
-    I:"Heart Canister"=14105
-    I:"Heavy Boots"=31739
-    I:"Heavy Chestplate"=31741
-    I:"Heavy Helmet"=14106
-    I:"Heavy Pants"=31740
-    I:Knapsack=31737
+    I:Gloves=14050
+    I:"Heart Canister"=14088
+    I:"Heavy Boots"=14089
+    I:"Heavy Chestplate"=14090
+    I:"Heavy Helmet"=14091
+    I:"Heavy Pants"=14092
+    I:Knapsack=14093
 }
 
 
@@ -89,11 +93,12 @@ general {
 "patterns and misc" {
     I:"Blank Patterns"=14019
     I:Buckets=14065
-    I:"Jeweled Apple"=31742
+    I:"Golden Head"=14048
+    I:"Jeweled Apple"=14049
     I:Materials=14020
     I:"Metal Pattern"=14024
-    I:"Ore Chunks"=14104
-    I:"Strange Food"=14066
+    I:"Ore Chunks"=14094
+    I:"Strange Food"=14095
     I:"Tinker's Manual"=14018
     I:"Title Icon"=14087
     I:"Tool Rod"=14021
@@ -121,6 +126,7 @@ superfun {
     I:Crossbar=14033
     I:"Excavator Head"=14045
     I:"Frypan Head"=14035
+    I:"Full Guard"=14047
     I:"Hammer Head"=14046
     I:"Hoe Head"=14029
     I:"Knife Blade"=14038
@@ -151,6 +157,7 @@ tools {
     I:Broadsword=14055
     I:Chisel=14066
     I:Cleaver=14068
+    I:Cutlass=14072
     I:Dagger=14065
     I:Excavator=14069
     I:"Frying Pan"=14058
@@ -166,6 +173,21 @@ tools {
     I:Scythe=14067
     I:Shortbow=14063
     I:Shovel=14052
+}
+
+
+####################
+# ultra hardcore changes
+####################
+
+"ultra hardcore changes" {
+    B:"Add Patterns to Pattern Chests"=false
+    B:"Add World Border"=false
+    B:"Change Crafting Recipes"=false
+    B:"Change Ghast drops to Gold Ingots"=false
+    B:"Passive Health Regen"=true
+    B:"Players drop heads on death"=false
+    I:"World Border Radius"=1000
 }
 
 
