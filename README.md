@@ -6,7 +6,7 @@ Um sich die Dateien zu holen gibt es mehrere Möglichkeiten.
 ## ModListe
 ### instMods
 * Forge_PaintingSelectionGuiv1.5.2.1.zip
-* minecraftforge-universal-1.5.2-7.8.1.738.zip
+* minecraftforge-universal-1.5.2-7.8.1.738.zip <http://files.minecraftforge.net/>
 
 ### coremods
 * [1.5.2]TreeCapitator.Forge.1.5.2.r01.Uni.CoreMod.jar
@@ -47,7 +47,7 @@ Um sich die Dateien zu holen gibt es mehrere Möglichkeiten.
 * mod_AdvancedSolarPanels_3_3_7.zip
 * ModularPowersuits-0.7.0-540.jar
 * MPSA-0.2.3-165_MPS-531+.jar
-* Natura_2.1.jar
+* Natura_2.1.jar <http://www.minecraftforum.net/topic/1753754->
 * neiaddons-1.5.2-1.8.0.r23.jar
 * NEIPlugins-1.0.9.3.jar
 * obsidiplates-1.5.2-universal-1.5.0.13.jar
@@ -63,3 +63,4 @@ Um sich die Dateien zu holen gibt es mehrere Möglichkeiten.
 * VoxelMods/
 * ZansMinimap1.5.2.zip
 * ZombieFleshToLeather-1.5.2-1.0.1.jar
+
