@@ -1,0 +1,13 @@
+#MLProperties: name (type:default) min:max -- information
+#MLProp : yOffsets (java.lang.String:2, 2, 2, 0, 0, 0, 2, 41, 2) -- Vertical offsets for each alignment position starting at top left (when using bottom alignments the y offset is relative to the bottom edge of the screen)
+#MLProp : memoryUnit (java.lang.String:MB) -- Valid memory unit strings are KB, MB, GB
+#MLProp : xOffsets (java.lang.String:2, 0, 2, 2, 0, 2, 2, 0, 2) -- Horizontal offsets from the edge of the screen (when using right alignments the x offset is relative to the right edge of the screen)
+#MLProp : showInChat (boolean:false) -- Set to true to show info when chat is open, false to disable info when chat is open
+#
+#**ONLY EDIT WHAT IS BELOW THIS**
+#
+#Thu Apr 25 08:14:21 GMT+01:00 2013
+yOffsets=2, 2, 2, 0, 0, 0, 2, 41, 2
+xOffsets=2, 0, 2, 2, 0, 2, 2, 0, 2
+showInChat=false
+memoryUnit=MB
