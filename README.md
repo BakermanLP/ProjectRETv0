@@ -1,7 +1,8 @@
 # MinecraftLetsPlay
-Hier entsteht gerade das Config Repository für das Modpack BakermanLP Let's Play
+Hier gibt es die aktuellen Config Dateien für das Modpack BakermanLP Let's Play
 
-Um sich die Dateien zu holen gibt es mehrere Möglichkeiten.
+Die Playlist findet ihr unter: <http://www.youtube.com/playlist?list=PL8yLu6oKAs8_RgMCwaMdqfMdvpe5iQIFS>
+Weitere Videos gibt es unter: <http://www.youtube.com/user/BakermanLP>
 
 ## ModListe
 ### instMods
