@@ -94,6 +94,42 @@ DO WHAT THE FUCK­ YOU WANT TO PUBLIC LICENSE
              </td>
         <td>https://www.dropbox.com/sh/qqgsswnyxh2mq9f/RqKpzJCanI/LICENSE.txt</td>
     </tr>
+    <tr>
+        <td>Natura, TConstruct</td>
+        <td>mDiyo</td>
+        <td>This mod is covered under the Creative Commons 3.0 license. Modpacks are encouraged, feel free to do anything you like with it. I only ask that you enjoy it! </td>
+        <td>http://www.minecraftforum.net/topic/1659892-</td>
+    </tr>
+    <tr>
+        <td>Forestry</td>
+        <td>sengir</td>
+        <td>The code of “Forestry for Minecraft” in source or binary form is the intellectual property of SirSengir. You may not reproduce, redistribute or modify it unless noted otherwise below.
+
+Mod Packs: You are free to add Forestry to your modpack and redistribute it, as long as the modpack is strictly non-profit and none of the other mods are included against their license. Yes, this even applies to packs made by people I don't like. Don't expect me to play tech support for your modpack though. (Applies to 2.0.0.6+ and later.)</td>
+        <td>http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads</td>
+    </tr>
+    <tr>
+        <td>Industrialcraft</td>
+        <td>Alblaka</td>
+        <td>Effective from now on, you may redistribute IC²'s original download (in any combination with other files or mods) in the form of 'ModPack's, without requesting explicit permission in advance, as long as following conditions are met:
+
+        You must explicitely state, on the website, thread, blog or other public location (further referred to as 'location'), the presence of IC² in your modpack in a readable and user-understandable manner and English language (usage of multiple languages, including at least one English translation, is permitted).
+        Either the download or the location must contain some sort of 'Credit's, listing up the 'IC² Dev Team' (this term is considered sufficient, it is not necessary to label the members of the Dev Team by name) as creator of IC².
+        A link to http://www.industrial-craft.net/ or http://forum.industrial-craft.net/ must be present, user-visible, at the location of publication.
+        You may not gain any direct revenue associated with the download of any data containing the redistributed IC² files. This literally applies to AdFly, but as well to other advertisment services, including those services basing revenue of website traffic.
+
+        You may contact me (aka Alblaka), head of the IC² Dev Team, to negotiate conditions different from those specified above, if the necessarity arises.</td>
+        <td>http://forum.industrial-craft.net/index.php?page=Thread&threadID=7994</td>
+    </tr>
+    <tr>
+        <td>Buildcraft</td>
+        <td>sengir</td>
+        <td>As of November 1st, 2011, the answer is YES. But that comes with constraints and restrictions. BuildCraft is released through an Open-Source license, the Minecraft Mod Public License. It does allow redistribution of the mod in its various forms (sources, binaries) in certain cases. Make sure that you do understand the license before distributing a mod including BuildCraft!
+
+        The main restriction is that sources must be accessible. If you are only redistributing the unmodified binaries, or class files, adding a link to http://www.mod-buildcraft.com is enough – sources can be retrieved from there. Otherwise, make sure that you clearly understand the implications, and asks questions in the forum if needed.
+</td>
+        <td>http://www.mod-buildcraft.com/documentation/faq/#mod_pack</td>
+    </tr>
 </table>
 
 ## ModListe
@@ -107,24 +143,20 @@ DO WHAT THE FUCK­ YOU WANT TO PUBLIC LICENSE
 * appeng-rv11-b.zip <http://ae-mod.info/Downloads/>
 * backpack-1.9.11-1.5.2.zip <http://www.minecraftforum.net/topic/1492661->
 * BiblioCraft[v1.3.1].zip <http://www.minecraftforum.net/topic/1680480->
-* buildcraft-A-3.7.1.jar <http://www.mod-buildcraft.com/2013/06/22/buildcraft-3-7-1-for-minecraft-1-5-2/>
 * chargepads-1.5.2-universal-2.7.0.86.jar <http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/>
 * ComputerCraft1.53.zip <http://www.computercraft.info/download/>
 * extra-bees-1.6-pre15.jar <http://www.minecraftforum.net/topic/1324321->
 * ExtrabiomesXL-universal-1.5.2-3.13.4.jar <http://www.minecraftforum.net/topic/1090288->
 * Factorization-0.7.37.jar <http://www.minecraftforum.net/topic/1351802->
-* forestry-A-2.2.8.2_1_.jar <http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads>
 * [Forge]FurnitureMod2.8.4(FULL).zip <http://www.minecraftforum.net/topic/1114866->
 * GregsLighting-1.8.1-7.jar <http://build.technicpack.net/>
 * gregtechmod-3.08a.zip <http://forum.industrial-craft.net/index.php?page=Thread&threadID=7156>
-* industrialcraft-2_1.116.364-lf.jar <http://ic2api.player.to:8080/job/IC2_lf/>
 * InventoryTweaks-1.54b.jar <http://www.minecraftforum.net/topic/1720872->
 * ironchest-universal-1.5.2-5.2.8.433.zip <http://www.minecraftforum.net/topic/981855->
 * miscperipherals-3.3e.jar <http://www.computercraft.info/forums2/index.php?/topic/4587->
 * mod_AdvancedSolarPanels_3_3_7.zip <http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291>
 * ModularPowersuits-0.7.0-540.jar <http://machinemuse.net/download.php>
 * MPSA-0.2.3-165_MPS-531+.jar <http://machinemuse.net/download.php>
-* Natura_2.1.jar <http://www.minecraftforum.net/topic/1753754->
 * neiaddons-1.5.2-1.8.0.r23.jar <http://www.minecraftforum.net/topic/1803460->
 * NEIPlugins-1.0.9.3.jar <https://bitbucket.org/mistaqur/nei_plugins/wiki/Home>
 * obsidiplates-1.5.2-universal-1.5.0.13.jar <http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/>
@@ -132,5 +164,4 @@ DO WHAT THE FUCK­ YOU WANT TO PUBLIC LICENSE
 * Paintings++1.5.2 v4.0small.zip <http://www.minecraftforum.net/topic/1617109->
 * Railcraft_1.5.2-7.2.3.0.jar <http://www.railcraft.info/releases>
 * StevesCarts2.0.0.a122.zip <http://www.minecraftforum.net/topic/680276->
-* TConstruct_1.3.6.1.jar <http://www.minecraftforum.net/topic/1659892->
 * ZansMinimap1.5.2.zip <http://www.minecraftforum.net/topic/1116564->
