@@ -282,17 +282,15 @@ Mod Packs: You are free to add Forestry to your modpack and redistribute it, as 
     <tr>
         <td>GregtechMod</td>
         <td>GregoriusT</td>
-        <td>Gave me permission via PM:
-
-
+        <td>Gave me permission via PM and here is the screenshot:
+        <https://raw.github.com/BakermanLP/MinecraftLetsPlay/master/permissions/gregtechmod.png>
 </td>
-        <td></td>
+        <td>https://raw.github.com/BakermanLP/MinecraftLetsPlay/master/permissions/gregtechmod.png</td>
     </tr>
 </table>
 
 
 ### mods
-* gregtechmod-3.08a.zip <http://forum.industrial-craft.net/index.php?page=Thread&threadID=7156>
 * obsidiplates-1.5.2-universal-1.5.0.13.jar <http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/>
 
 Pending Permissions
