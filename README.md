@@ -4,6 +4,9 @@ Hier gibt es die aktuellen Config Dateien für das Modpack BakermanLP Let's Play
 Die Playlist findet ihr unter: <http://www.youtube.com/playlist?list=PL8yLu6oKAs8_RgMCwaMdqfMdvpe5iQIFS>
 Weitere Videos gibt es unter: <http://www.youtube.com/user/BakermanLP>
 
+Die einzelnen Berechtigungen, dass ich dieses ModPack zusammenstellen darf findet ihr unter:
+<https://github.com/BakermanLP/MinecraftLetsPlay/blob/master/licences.md>
+
 ## ModListe
 ### instMods
 * Forge_PaintingSelectionGuiv1.5.2.1.zip <http://www.minecraftforum.net/topic/1398968->
