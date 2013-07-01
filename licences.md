@@ -1,5 +1,5 @@
 # MinecraftLetsPlay
-## Lizenzen der Mod Entwickler
+## Berechtigungen und Lizenzen der Mod Entwickler
 <table>
     <tr>
         <td>Mods</td>
@@ -123,45 +123,184 @@ Mod Packs: You are free to add Forestry to your modpack and redistribute it, as 
     </tr>
     <tr>
         <td>Buildcraft</td>
-        <td>sengir</td>
+        <td>SpaceToad</td>
         <td>As of November 1st, 2011, the answer is YES. But that comes with constraints and restrictions. BuildCraft is released through an Open-Source license, the Minecraft Mod Public License. It does allow redistribution of the mod in its various forms (sources, binaries) in certain cases. Make sure that you do understand the license before distributing a mod including BuildCraft!
 
         The main restriction is that sources must be accessible. If you are only redistributing the unmodified binaries, or class files, adding a link to http://www.mod-buildcraft.com is enough – sources can be retrieved from there. Otherwise, make sure that you clearly understand the implications, and asks questions in the forum if needed.
 </td>
         <td>http://www.mod-buildcraft.com/documentation/faq/#mod_pack</td>
     </tr>
+    <tr>
+        <td>AdvancedPowerManagement</td>
+        <td>Pantheis & Tallinu</td>
+        <td>Inclusion of this mod into a modpack is allowed as long as the following conditions are met: 
+
+1: Pantheis and/or Tallinu should be informed in advance of inclusion. This is not asking permission, just to let us know who's including it! :) We like knowing how far our work has spread. This can be as simple as a tweet to @pantheis or @tallinu with a link to your modpack. 
+2: The users of the modpack must be provided with a link back to the Industrial Craft 2 thread. 
+3: Credit must be given to Pantheis & Tallinu 
+4: Modified versions compiled from source must be marked as such, noting any changes made. 
+5: The LICENSE.txt and README files included inside the jar must be left intact. 
+6: The copyright headers on every source file must remain intact. 
+7: You must report any errors you have in relation to other mods so we can fix them! :) Or, feel free to submit a pull request with your own fix.
+</td>
+        <td>http://forum.industrial-craft.net/index.php?page=Thread&threadID=7900&pageNo=1</td>
+    </tr>
+    <tr>
+        <td>appeng</td>
+        <td>AlgorithmX2</td>
+        <td>Yes, I've officially opened up all my restrictions on this. If someone asks you if you have permission, send them here, or if you really insist send me a PM on http://www.minecraftforum.net.
+
+        All I really ask is that you make sure that you tell people that my mod is included. Something like "Applied Energistics by AlgorithmX2" with a link to this wiki would work nicely.
+</td>
+        <td>http://ae-mod.info/Frequently-Asked-Questions/</td>
+    </tr>
+    <tr>
+        <td>backpack</td>
+        <td></td>
+        <td>You are allowed to use backpacks mod in your modpack when you fullfill the following points:
+        - You have to give credits to the author of this mod and you have to show a link pointing to this thread.
+        - You are not allowed to make money with your modpack (adf.ly or similar); PayPal donations are allowed.
+        - Make sure you have read and understand the license (can be found in the zip)
+</td>
+        <td>http://www.minecraftforum.net/topic/1492661-15x-backpacks-v-11213/</td>
+    </tr>
+    <tr>
+        <td>BiblioCraft</td>
+        <td>Nuchaz</td>
+        <td>As long as you folks put down credit to me for BiblioCraft and link back to my forum thread, you have permission to use BiblioCraft in your packs. 
+</td>
+        <td>http://www.minecraftforum.net/topic/1680480-15xforgesmp-bibliocraft-v131-bookcases-armor-stands-shelves-printing-presses-with-fancy-lamps-tables-and-more-updated-06042013/page__view__findpost__p__22294938</td>
+    </tr>
+    <tr>
+        <td>miscperipherals</td>
+        <td>RichardG867</td>
+        <td>Modpacks: go ahead and *don't ask me*, but I reserve the right to air strike you if you don't comply with other mods.
+</td>
+        <td>http://www.computercraft.info/forums2/index.php?/topic/4587-cc153mc152-miscperipherals-33/</td>
+    </tr>
+    <tr>
+        <td>OpenPeripheral, OpenCCSensors</td>
+        <td>Mikeemoo</td>
+        <td>Yes, you can use these in your mod pack ;-)
+</td>
+        <td>http://www.openperipheral.info/</td>
+    </tr>
+    <tr>
+        <td>chargepads</td>
+        <td>Myrathi</td>
+        <td>ChargePads is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License. Appropriate restrictions are waived for the IC2 team as required by their publishing notes.
+</td>
+        <td>http://forum.industrial-craft.net/index.php?page=Thread&threadID=7892</td>
+    </tr>
+    <tr>
+        <td>ComputerCraft</td>
+        <td>dan200, Cloudy</td>
+        <td>I give permission to include ComputerCraft in any and all Minecraft mod packs, provided it is included unmodified. There is no need to ask permission! If your modpack is popular, please consider making a donation to the development of the mod.
+</td>
+        <td>http://www.computercraft.info/download/</td>
+    </tr>
+    <tr>
+        <td>InventoryTweaks</td>
+        <td>Kobata</td>
+        <td>Inventory Tweaks, being under the MIT License, is frequently used in modpacks. Feel free to redistribute it! My only request is to provide a link to either this thread or the mod's website.
+</td>
+        <td>http://www.minecraftforum.net/topic/1720872-</td>
+    </tr>
+    <tr>
+        <td>IronChests</td>
+        <td>cpw</td>
+        <td>This mod is now officially open source, licensed under the GPL version 3. Feel free to fork and have fun with it. I welcome pull requests of a useful nature.
+
+        Modpackers: yes, I allow both this and compact solars into modpacks, and being open source I really can't stop you. But I would appreciate a courtesy ping saying that you're including me somewhere. Thanks!
+</td>
+        <td>http://www.minecraftforum.net/topic/981855-</td>
+    </tr>
+    <tr>
+        <td>extra-bees</td>
+        <td>Binnie</td>
+        <td>Regarding Modpacks
+        If you have permission to use forestry in your mod pack, in accordance with the terms and conditions provided at the bottom of the forestry forum thread then you have permission to also include Extra Bees, as long as you link back here
+</td>
+        <td>http://www.minecraftforum.net/topic/1324321-</td>
+    </tr>
+    <tr>
+        <td>ExtrabiomesXL</td>
+        <td>MisterFiber</td>
+        <td>You have full permission to distribute ExtrabiomesXL within your modpack. No permission is required.
+</td>
+        <td>http://www.minecraftforum.net/topic/1090288-</td>
+    </tr>
+    <tr>
+        <td>GregsLighting</td>
+        <td>Greg Ewing</td>
+        <td>This is free software. You are free to do whatever you want with it.
+</td>
+        <td>http://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/GregsLighting/#mozTocId562636</td>
+    </tr>
+    <tr>
+        <td>mod_AdvancedSolarPanels</td>
+        <td>SeNtiMeL</td>
+        <td>For all those who want to use my addons in their mods pack, I give permission to use all my addons. You don't need pm me about it !
+</td>
+        <td>http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291</td>
+    </tr>
+    <tr>
+        <td>ModularPowersuits, MPSA</td>
+        <td>MachineMuse</td>
+        <td>Yes, you may include this mod in your pack. I will not sign up on your website to give you express written permission. Just link to this page.
+</td>
+        <td>http://machinemuse.net/modpacks.php</td>
+    </tr>
+    <tr>
+        <td>neiaddons</td>
+        <td>bdew</td>
+        <td>The mod is licensed under the MMPL-1.0, the source code is available on GitHub.
+        Yes this means you have permission to add it to any public or private mod pack. 
+</td>
+        <td>http://www.minecraftforum.net/topic/1803460-</td>
+    </tr>
+    <tr>
+        <td>NEIPlugins</td>
+        <td>mistaqur</td>
+        <td>About modpacks
+        You are free to add NEIPlugins to your modpack and redistribute it, as long as the modpack is strictly non-profit and none of the other mods are included against their license.
+</td>
+        <td>https://bitbucket.org/mistaqur/nei_plugins/wiki/Home</td>
+    </tr>
+    <tr>
+        <td>StevesCarts</td>
+        <td>Vswe</td>
+        <td>If you want to include Steve's Carts 2 alpha in a mod pack, public or private, you need to follow a few steps.
+        1. Give me credit for the mod.
+        2. Have permission from all mod authors whose mods are in the pack.
+        3. Don't earn money on the pack.
+
+        If all those steps are followed you have my permission to include it in your mod pack. This licence might be change in the future.
+</td>
+        <td>http://stevescarts2.wikispaces.com/</td>
+    </tr>
+    <tr>
+        <td>GregtechMod</td>
+        <td>GregoriusT</td>
+        <td>Gave me permission via PM:
+
+
+</td>
+        <td></td>
+    </tr>
 </table>
 
-## ModListe
-
-### coremods
-* DynamicLights_1.5.2.zip <http://www.minecraftforum.net/topic/184426->
 
 ### mods
-* AdvancedPowerManagement-1.2.68-IC2-1.115.jar <http://forum.industrial-craft.net/index.php?page=Thread&threadID=7900>
-* aeperipheral-universal-1.5.2-1.0.0.3.zip <http://www.computercraft.info/forums2/index.php?/topic/12663-applied-energistics-peripheral/>
-* appeng-rv11-b.zip <http://ae-mod.info/Downloads/>
-* backpack-1.9.11-1.5.2.zip <http://www.minecraftforum.net/topic/1492661->
-* BiblioCraft[v1.3.1].zip <http://www.minecraftforum.net/topic/1680480->
-* chargepads-1.5.2-universal-2.7.0.86.jar <http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/>
-* ComputerCraft1.53.zip <http://www.computercraft.info/download/>
-* extra-bees-1.6-pre15.jar <http://www.minecraftforum.net/topic/1324321->
-* ExtrabiomesXL-universal-1.5.2-3.13.4.jar <http://www.minecraftforum.net/topic/1090288->
-* Factorization-0.7.37.jar <http://www.minecraftforum.net/topic/1351802->
-* [Forge]FurnitureMod2.8.4(FULL).zip <http://www.minecraftforum.net/topic/1114866->
-* GregsLighting-1.8.1-7.jar <http://build.technicpack.net/>
 * gregtechmod-3.08a.zip <http://forum.industrial-craft.net/index.php?page=Thread&threadID=7156>
-* InventoryTweaks-1.54b.jar <http://www.minecraftforum.net/topic/1720872->
-* ironchest-universal-1.5.2-5.2.8.433.zip <http://www.minecraftforum.net/topic/981855->
-* miscperipherals-3.3e.jar <http://www.computercraft.info/forums2/index.php?/topic/4587->
-* mod_AdvancedSolarPanels_3_3_7.zip <http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291>
-* ModularPowersuits-0.7.0-540.jar <http://machinemuse.net/download.php>
-* MPSA-0.2.3-165_MPS-531+.jar <http://machinemuse.net/download.php>
-* neiaddons-1.5.2-1.8.0.r23.jar <http://www.minecraftforum.net/topic/1803460->
-* NEIPlugins-1.0.9.3.jar <https://bitbucket.org/mistaqur/nei_plugins/wiki/Home>
 * obsidiplates-1.5.2-universal-1.5.0.13.jar <http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/>
-* OpenCCSensors-1.5.2.0.jar <http://www.computercraft.info/forums2/index.php?/topic/5996->
+
+Pending Permissions
+
+* DynamicLights_1.5.2.zip <http://www.minecraftforum.net/topic/184426->
 * Paintings++1.5.2 v4.0small.zip <http://www.minecraftforum.net/topic/1617109->
 * Railcraft_1.5.2-7.2.3.0.jar <http://www.railcraft.info/releases>
-* StevesCarts2.0.0.a122.zip <http://www.minecraftforum.net/topic/680276->
-* ZansMinimap1.5.2.zip <http://www.minecraftforum.net/topic/1116564->
+* aeperipheral-universal <http://www.computercraft.info/forums2/index.php?/topic/12663-applied-energistics-peripheral/page__view__findpost__p__130534>
+* Factorization-0.7.37.jar <http://www.minecraftforum.net/topic/1351802->
+* [Forge]FurnitureMod2.8.4(FULL).zip <http://www.minecraftforum.net/topic/1114866-152forgesspsmp-mrcrayfishs-furniture-mod-v284-new-api-bug-fixes/page__view__findpost__p__23095581>
+* ZansMinimap1.5.2.zip <http://www.minecraftforum.net/topic/1116564-152-mamiyaotarus-mods-voxelmap-chatbubbles-autofarmer-etc/page__st__540#entry23145253>
