@@ -90,6 +90,11 @@ languagefile {
     S:item.GT_Components.49.name=Advanced Circuit Board
     S:item.GT_Components.5.name=Conveyor Module
     S:item.GT_Components.50.name=Elite Circuit Board
+    S:item.GT_Components.51.name=Bronze Turbine Blade
+    S:item.GT_Components.52.name=Steel Turbine Blade
+    S:item.GT_Components.53.name=Magnalium Turbine Blade
+    S:item.GT_Components.54.name=Tungstensteel Turbine Blade
+    S:item.GT_Components.55.name=Carbon Turbine Blade
     S:item.GT_Components.6.name=Pump Module
     S:item.GT_Components.64.name=Crafting Module
     S:item.GT_Components.7.name=Solar Panel
@@ -138,6 +143,7 @@ languagefile {
     S:item.GT_Dusts.29.name=Invar Dust
     S:item.GT_Dusts.3.name=Pyrite Dust
     S:item.GT_Dusts.30.name=Osmium Dust
+    S:item.GT_Dusts.31.name=Antimony Dust
     S:item.GT_Dusts.32.name=Ruby Dust
     S:item.GT_Dusts.33.name=Sapphire Dust
     S:item.GT_Dusts.34.name=Green Sapphire Dust
@@ -219,6 +225,7 @@ languagefile {
     S:item.GT_Materials.29.name=Invar Ingot
     S:item.GT_Materials.3.name=Diamond Credit
     S:item.GT_Materials.30.name=Osmium Ingot
+    S:item.GT_Materials.31.name=Antimony Ingot
     S:item.GT_Materials.32.name=Ruby
     S:item.GT_Materials.33.name=Sapphire
     S:item.GT_Materials.34.name=Green Sapphire
@@ -228,6 +235,9 @@ languagefile {
     S:item.GT_Materials.38.name=Thorium Ingot
     S:item.GT_Materials.39.name=Plutonium Ingot
     S:item.GT_Materials.4.name=Iridium Alloy Ingot
+    S:item.GT_Materials.40.name=Magnalium Ingot
+    S:item.GT_Materials.41.name=Soldering Alloy Ingot
+    S:item.GT_Materials.42.name=Battery Alloy Ingot
     S:item.GT_Materials.5.name=Hot Tungstensteel Ingot
     S:item.GT_Materials.54.name=Red Garnet
     S:item.GT_Materials.55.name=Yellow Garnet
@@ -256,6 +266,7 @@ languagefile {
     S:item.GT_Materials.83.name=Tungstensteel Plate
     S:item.GT_Materials.84.name=Osmium Plate
     S:item.GT_Materials.85.name=Iridium Plate
+    S:item.GT_Materials.86.name=Battery Alloy Plate
     S:item.GT_Materials.9.name=Indigo Dye
     S:item.GT_Nuggets.16.name=Iridium Nugget
     S:item.GT_Nuggets.17.name=Silver Nugget
@@ -276,6 +287,7 @@ languagefile {
     S:item.GT_Nuggets.28.name=Nickel Nugget
     S:item.GT_Nuggets.29.name=Invar Nugget
     S:item.GT_Nuggets.30.name=Osmium Nugget
+    S:item.GT_Nuggets.31.name=Antimony Nugget
     S:item.GT_Plasma.3.name=Helium Plasma
     S:item.GT_Scanner.name=Portable Scanner
     S:item.GT_Screwdriver.name=Screwdriver
@@ -315,6 +327,7 @@ languagefile {
     S:item.GT_SmallDusts.29.name=Tiny Pile of Invar Dust
     S:item.GT_SmallDusts.3.name=Tiny Pile of Pyrite Dust
     S:item.GT_SmallDusts.30.name=Tiny Pile of Osmium Dust
+    S:item.GT_SmallDusts.31.name=Tiny Pile of Antimony Dust
     S:item.GT_SmallDusts.32.name=Tiny Pile of Ruby Dust
     S:item.GT_SmallDusts.33.name=Tiny Pile of Sapphire Dust
     S:item.GT_SmallDusts.34.name=Tiny Pile of Green Sapphire Dust
@@ -346,6 +359,14 @@ languagefile {
     S:item.GT_SmallDusts.80.name=Tiny Pile of Thorium Dust
     S:item.GT_SmallDusts.81.name=Tiny Pile of Plutonium Dust
     S:item.GT_SmallDusts.9.name=Tiny Pile of Saltpeter Dust
+    S:item.GT_SolderingLead.name=Soldering Lead
+    S:item.GT_SolderingTin.name=Soldering Tin
+    S:item.GT_SolderingTool.name=Electric Soldering Iron
+    S:item.GT_Turbine_Bronze.name=Bronze Turbine Rotor
+    S:item.GT_Turbine_Carbon.name=Carbon Turbine Rotor
+    S:item.GT_Turbine_Magnalium.name=Magnalium Turbine Rotor
+    S:item.GT_Turbine_Steel.name=Steel Turbine Rotor
+    S:item.GT_Turbine_Tungstensteel.name=Tungstensteel Turbine Rotor
     S:item.GT_Wrench_Advanced.name=Advanced Wrench
     S:item.GT_Wrench_Bronze.name=Bronze Wrench
     S:item.GT_Wrench_Electric.name=Electric Wrench
@@ -372,6 +393,7 @@ languagefile {
     S:item.Teslastaff.name=Tesla Staff
     S:item.Thoriumcell.name=Thorium Cell
     S:item.Ultimate_Cheat_Armor.name=Ultimate Cheat Armor
+    S:tile.BlockMetaID_Block.Adv_Machine.name=Advanced Machine Block
     S:tile.BlockMetaID_Block.Advanced_Machine_Casing.name=Advanced Machine Casing
     S:tile.BlockMetaID_Block.Block_of_Aluminium.name=Block of Aluminium
     S:tile.BlockMetaID_Block.Block_of_Brass.name=Block of Brass
@@ -454,7 +476,9 @@ languagefile {
     S:tile.BlockMetaID_Machine.GT_MagicConverter.name=Magic Energy Converter
     S:tile.BlockMetaID_Machine.GT_Maintenance_Hatch.name=Maintenance Hatch
     S:tile.BlockMetaID_Machine.GT_Microwave.name=Microwave Oven
+    S:tile.BlockMetaID_Machine.GT_Muffler_Hatch.name=Muffler Hatch
     S:tile.BlockMetaID_Machine.GT_Multi_GasTurbine.name=Large Gas Turbine
+    S:tile.BlockMetaID_Machine.GT_Multi_SteamTurbine.name=Large Steam Turbine
     S:tile.BlockMetaID_Machine.GT_Output_Hatch.name=Output Hatch
     S:tile.BlockMetaID_Machine.GT_PlasmaGenerator.name=Plasma Generator
     S:tile.BlockMetaID_Machine.GT_Printer.name=Printing Factory
@@ -501,6 +525,7 @@ languagefile {
     S:tile.BlockMetaID_Machine.UUM_Assembler.name=UUM-Assembler
     S:tile.BlockMetaID_Ore..name=
     S:tile.BlockMetaID_Ore.Bauxite_Ore.name=Bauxite Ore
+    S:tile.BlockMetaID_Ore.Cassiterite_Ore.name=Cassiterite Ore
     S:tile.BlockMetaID_Ore.Cinnabar_Ore.name=Cinnabar Ore
     S:tile.BlockMetaID_Ore.Cooperite_Ore.name=Sheldonite Ore
     S:tile.BlockMetaID_Ore.GT_Ore.name=GT_Ore
@@ -513,6 +538,7 @@ languagefile {
     S:tile.BlockMetaID_Ore.Silver_Ore.name=Silver Ore
     S:tile.BlockMetaID_Ore.Sodalite_Ore.name=Sodalite Ore
     S:tile.BlockMetaID_Ore.Sphalerite_Ore.name=Sphalerite Ore
+    S:tile.BlockMetaID_Ore.Tetrahedrite_Ore.name=Tetrahedrite Ore
     S:tile.BlockMetaID_Ore.Tungstate_Ore.name=Tungstate Ore
 }
 

@@ -287,6 +287,21 @@ Mod Packs: You are free to add Forestry to your modpack and redistribute it, as 
 </td>
         <td>https://raw.github.com/BakermanLP/MinecraftLetsPlay/master/permissions/gregtechmod.png</td>
     </tr>
+    <tr>
+        <td>DynamicLights</td>
+        <td>AtomicStryker</td>
+        <td>Gave me permission via PM and here is the screenshot:
+        <https://raw.github.com/BakermanLP/MinecraftLetsPlay/master/permissions/dynamiclights.png>
+</td>
+        <td>https://raw.github.com/BakermanLP/MinecraftLetsPlay/master/permissions/dynamiclights.png</td>
+    </tr>
+    <tr>
+        <td>Railcraft</td>
+        <td>CovertJaguar</td>
+        <td>Gave me permission via Forums Thread:
+        http://www.railcraft.info/forum/?mingleforumaction=viewtopic&t=199<</td>
+        <td>https://raw.github.com/BakermanLP/MinecraftLetsPlay/master/permissions/railcraft.png</td>
+    </tr>
 </table>
 
 
@@ -295,10 +310,9 @@ Mod Packs: You are free to add Forestry to your modpack and redistribute it, as 
 
 Pending Permissions
 
-* DynamicLights_1.5.2.zip <http://www.minecraftforum.net/topic/184426->
 * Paintings++1.5.2 v4.0small.zip <http://www.minecraftforum.net/topic/1617109->
-* Railcraft_1.5.2-7.2.3.0.jar <http://www.railcraft.info/releases>
-* aeperipheral-universal <http://www.computercraft.info/forums2/index.php?/topic/12663-applied-energistics-peripheral/page__view__findpost__p__130534>
 * Factorization-0.7.37.jar <http://www.minecraftforum.net/topic/1351802->
 * [Forge]FurnitureMod2.8.4(FULL).zip <http://www.minecraftforum.net/topic/1114866-152forgesspsmp-mrcrayfishs-furniture-mod-v284-new-api-bug-fixes/page__view__findpost__p__23095581>
+
+* aeperipheral-universal <http://www.computercraft.info/forums2/index.php?/topic/12663-applied-energistics-peripheral/page__view__findpost__p__130534>
 * ZansMinimap1.5.2.zip <http://www.minecraftforum.net/topic/1116564-152-mamiyaotarus-mods-voxelmap-chatbubbles-autofarmer-etc/page__st__540#entry23145253>
