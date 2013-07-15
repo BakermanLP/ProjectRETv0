@@ -1,7 +1,0 @@
-<middleleft>&fDay <day> (<daytime[&e/&8]><mctime[12]>&f) <slimes[<darkgreen>/&b]><biome>
-Light: <max[<lightnosunfeet>/7[&e/&c]]><max[<lightnosunfeet>/9[&a/]]><lightnosunfeet>
-&fXP: &e<xpthislevel>&f / &e<xpcap>
-Direction: &e<finedirection>
-Entities: &e<entitiesrendered>&f / &e<entitiestotal>
-<equippedname> equipped.
-Time: &b<rltime[h:mma]>

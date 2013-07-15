@@ -7,6 +7,11 @@
 block {
     I:Aggregator=1168
     I:Barricade=1169
+    I:"Clear Glass"=1175
+    I:"Clear Stained Glass"=1176
+    I:"Clear Stained Glass Pane"=1177
+    I:"Drying Rack"=1178
+    I:"Glass Pane"=1179
     I:"Golem Core"=1151
     I:"Golem Head"=1152
     I:"Held Item Block"=1153
@@ -22,10 +27,12 @@ block {
     I:"Ore Berry Two"=1165
     I:"Ores Gravel"=1166
     I:"Ores Slag"=1158
+    I:"Redstone Machines"=1180
     I:"Seared Table"=1159
     I:Smeltery=1160
     I:"Special Soil"=1161
     I:"Speed Block"=1167
+    I:"Stained Glass"=1181
     I:"Stone Torch"=1162
     I:"Tool Forge"=1173
     I:"Wood Tool Station"=1163
@@ -94,7 +101,7 @@ general {
 
 "patterns and misc" {
     I:"Blank Patterns"=14019
-    I:Buckets=14065
+    I:Buckets=14017
     I:"Golden Head"=14048
     I:"Jeweled Apple"=14049
     I:Materials=14020
@@ -123,10 +130,13 @@ superfun {
 ####################
 
 "tool parts" {
+    I:Arrowhead=14012
     I:"Axe Head"=14028
+    I:Bowstring=14011
     I:"Chisel Head"=14039
     I:Crossbar=14033
     I:"Excavator Head"=14045
+    I:Fletching=14013
     I:"Frypan Head"=14035
     I:"Full Guard"=14047
     I:"Hammer Head"=14046
@@ -153,6 +163,7 @@ superfun {
 ####################
 
 tools {
+    I:Arrow=14014
     I:Axe=14053
     I:Battleaxe=14071
     I:Battlesign=14059
@@ -221,6 +232,7 @@ worldgen {
     I:"Copper Underground Density"=0
     I:"Copper Underground Max Y"=60
     I:"Copper Underground Min Y"=20
+    I:"Essence Bush Rarity"=6
     B:"Generate Aluminum"=true
     B:"Generate Ardite"=true
     B:"Generate Cobalt"=true
@@ -260,6 +272,7 @@ worldgen {
     B:"Generate Cobalt and Ardite"=true
     B:"Generate Copper"=false
     B:"Generate Copper Bushes"=true
+    B:"Generate Essence Bushes"=true
     B:"Generate Gold Bushes"=true
     B:"Generate Iron Bushes"=true
     B:"Generate Silver Bushes"=true
