@@ -12,6 +12,7 @@ block {
     I:"Held Item Block"=1153
     I:Landmine=1170
     I:"Lava Tank"=1154
+    I:"Light Crystal"=1174
     I:"Liquid Metal Flowing"=1155
     I:"Liquid Metal Still"=1156
     I:"Metal Storage"=1157
@@ -38,6 +39,7 @@ block {
 "difficulty changes" {
     B:"Craft metals with Wood Patterns"=false
     B:"Craft vanilla metal blocks"=true
+    B:"Enable Auto-Smelt and Fortune interaction"=false
     B:"Enable mod bone tools"=true
     B:"Enable mod cactus tools"=true
     B:"Enable mod stone tools"=true
@@ -81,8 +83,8 @@ general {
 "mob spawning" {
     B:"Activate Blue Slime Spawns"=true
     B:"Activate Nitro Creeper Spawns"=true
-    I:"Spawn Weight for Blue Slime"=8
-    I:"Spawn Weight for Nitro Creeper"=7
+    I:"Spawn Weight for Blue Slime"=5
+    I:"Spawn Weight for Nitro Creeper"=6
 }
 
 
