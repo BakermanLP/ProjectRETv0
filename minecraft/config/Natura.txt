@@ -27,7 +27,10 @@ block {
     I:"Green Glowshroom"=1134
     I:"Hopseed Door"=1115
     I:"Hopseed Plank Stairslabs"=1122
+    I:"Log Slab"=1129
     I:"Nether Berry Bush"=1105
+    I:"Plank Slab One"=1149
+    I:"Plank Slab Two"=1148
     I:"Planks Block"=1112
     I:"Purple Glowshroom"=1135
     I:"Rare Leaves"=1138
@@ -43,6 +46,8 @@ block {
     I:"Sakura Plank Stairslabs"=1123
     I:Sapling=1106
     I:Thornvines=1142
+    I:"Topiary Grass Block"=1146
+    I:"Topiary Grass Slab"=1147
     I:"Willow Log"=1140
     I:"Wood Block"=1101
 }

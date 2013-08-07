@@ -28,10 +28,12 @@ block {
     I:"Ores Gravel"=1166
     I:"Ores Slag"=1158
     I:"Redstone Machines"=1180
+    I:"Seared Slab"=1182
     I:"Seared Table"=1159
     I:Smeltery=1160
     I:"Special Soil"=1161
     I:"Speed Block"=1167
+    I:"Speed Slab"=1183
     I:"Stained Glass"=1181
     I:"Stone Torch"=1162
     I:"Tool Forge"=1173
@@ -44,16 +46,27 @@ block {
 ####################
 
 "difficulty changes" {
+    B:"Craft Stencil Tables"=true
     B:"Craft metals with Wood Patterns"=false
     B:"Craft vanilla metal blocks"=true
+    B:"Deny creation of non-metal mattocks"=false
     B:"Enable Auto-Smelt and Fortune interaction"=false
+    B:"Enable mod blue slime tools"=true
     B:"Enable mod bone tools"=true
     B:"Enable mod cactus tools"=true
+    B:"Enable mod flint tools"=true
+    B:"Enable mod netherrack tools"=true
+    B:"Enable mod paper tools"=true
+    B:"Enable mod slime tools"=true
     B:"Enable mod stone tools"=true
     B:"Enable mod wooden tools"=true
     B:"Keep hunger on death"=true
     B:"Keep levels on death"=true
+    B:"Lower bronze output to 2 ingots"=false
+    B:"Modifiers increase Mining Level"=true
     B:"Remove Overworld void fog"=true
+    B:"Remove Vanilla GregTech Nerfs"=true
+    B:"Remove Vanilla Tool Recipes"=false
     B:"Spawn beginner book"=true
     B:"Turn water clear"=true
 }
